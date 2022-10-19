@@ -26,9 +26,9 @@
 	11. En la parte editable, llenamos tanto el correo de donde se enviara el mensaje, su contraseña (es la contraseña para aplicaciones de google), el destinatario, el asunto y en contenido del mensaje
 		```
 		{
-		  "de": "escribe tu correo electronico",
+		  "de": "escribe el correo electronico del cual se desee enviar el mensaje",
 		  "contras": "escribe tu contraseña de aplicaciones de google",
-		  "para": "smich254@gmail.com",
+		  "para": "escribe el correo electronico al cual enviar el mensaje",
 		  "asunto": "Mensaje desde nuestro servidor de email",
 		  "cuerpo": "Prueba exitosa"
 		}
